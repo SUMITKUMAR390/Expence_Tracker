@@ -1,6 +1,6 @@
 # 💰 Expense Tracker (Django + HTML/CSS)
 
-A simple Expense Tracker built with **Django**, **HTML**, **CSS**, and **SQLite**.  
+A simple Expense Tracker built with **Django**, **HTML**, **CSS**, and **postgresql**.  
 It allows users to track **income and expenses**, view **balance history**, and manage transactions.
 
 ---
@@ -11,7 +11,7 @@ It allows users to track **income and expenses**, view **balance history**, and 
 - Transaction history (credit/debit)
 - Delete transactions
 - Responsive UI
-- SQLite database (default)
+
 
 ---
 
