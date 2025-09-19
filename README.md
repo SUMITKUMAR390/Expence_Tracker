@@ -18,7 +18,7 @@ It allows users to track **income and expenses**, view **balance history**, and 
 ## 🛠️ Tech Stack
 - **Backend**: Django (Python)
 - **Frontend**: HTML, CSS
-- **Database**: SQLite3
+- **Database**: postgresql
 - **Version Control**: Git + GitHub
 
 ---
